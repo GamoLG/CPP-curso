@@ -1,4 +1,4 @@
-//una matriz 3x3 y que muestre su diagonal principal
+//una matriz 3x3 y que muestre su diagonal principal.
 #include<iostream>
 using namespace std;
 int main()
