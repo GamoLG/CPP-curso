@@ -18,7 +18,7 @@ int main()
 	{
 		for(int j=0;j<columnas;j++)
 		{
-			numeros=1+rand()%(100);
+			numeros=1+rand()%(100);  //numeros aleatorios
 			matriz[i][j]=numeros;
 		}
 		cout<<endl;

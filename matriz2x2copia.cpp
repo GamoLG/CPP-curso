@@ -66,5 +66,28 @@ int main()
 		}
 		cout<<endl;
 	}
+	
+	//otra forma de hacer la trasnpuesta
+	cout<<"matriz normal"<<endl;
+	int matrizt[2][2]={{1,2},{4,5}};
+	for(int i=0; i<2;i++)
+	{
+		for(int j=0;j<2;j++)
+		{
+			cout<<matrizt[i][j];
+		}
+		cout<<endl;
+	}
+	cout<<"matriz transpuesta-otra forma"<<endl;
+	for(int i=0; i<2;i++)
+	{
+		for(int j=0;j<2;j++)
+		{
+			cout<<matrizt[j][i];
+		}
+		cout<<endl;
+	}
+	
 	return 0;
 }
+	
