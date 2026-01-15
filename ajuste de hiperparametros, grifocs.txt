@@ -1,0 +1,5 @@
+ajuste de hiperparametros, grifocs de matrices de correlación
+overfiting no debe de haber, underfiting tampoco para que no demore tanto, que no memorice, 
+from catboost import CatBoostClassifier
+limpieza de datos
+	
