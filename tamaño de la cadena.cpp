@@ -15,7 +15,7 @@ int main()
 	
 	cout<<"la longitud 2 es: "<<longitud2<<endl;
 	
-	//ahora con zise
+	//ahora con size
 	 string palabra3="sfkbsrkvbsbvvbc";
 	 int longitud3=palabra3.size();
 	 cout<<"longitud de la palabra 3: "<<longitud3<<endl;
