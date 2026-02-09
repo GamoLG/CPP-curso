@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	
+	//vector
 	vector<int> numeros={4,15,4,1,10,9,11};
 	//mostrar vector original
 	for(int i=0;i<numeros.size();i++)
