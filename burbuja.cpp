@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	//ordenamiento burbuja aplicando arreglos y vectores
 	int numeros[]={1,23,5,2,5,2,10,9};
 	int aux;
 	for(int i=0;i<sizeof(numeros)/sizeof(numeros[0]);i++)
